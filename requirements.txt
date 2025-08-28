@@ -1,0 +1,5 @@
+fastapi
+uvicorn[standard]
+pandas
+joblib
+scikit-learn   # si tu modelo lo usa
